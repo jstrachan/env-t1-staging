@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: godemo21
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.6
 - name: helloworld-knative
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.2.15
