@@ -13,3 +13,6 @@ dependencies:
 - name: nodey68
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: nodey69
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
