@@ -1,7 +1,4 @@
 dependencies:
-- name: demo275
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: demo276
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
@@ -13,12 +10,6 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- name: nodey61
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
-- name: nodey68
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: nodey69
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
